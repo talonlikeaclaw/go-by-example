@@ -9,7 +9,7 @@ This repository tracks my learning through [Go by Example](https://gobyexample.c
 - [x] 03 - Variables
 - [x] 04 - Constants
 - [x] 05 - For
-- [ ] 06 - If/Else
+- [x] 06 - If/Else
 - [ ] 07 - Switch
 - [ ] 08 - Arrays
 - [ ] 09 - Slices
