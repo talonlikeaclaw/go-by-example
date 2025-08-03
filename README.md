@@ -8,7 +8,7 @@ This repository tracks my learning through [Go by Example](https://gobyexample.c
 - [x] 02 - Values
 - [x] 03 - Variables
 - [x] 04 - Constants
-- [ ] 05 - For
+- [x] 05 - For
 - [ ] 06 - If/Else
 - [ ] 07 - Switch
 - [ ] 08 - Arrays
