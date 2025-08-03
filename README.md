@@ -5,7 +5,7 @@ This repository tracks my learning through [Go by Example](https://gobyexample.c
 ## Completed Examples
 
 - [x] 01 - Hello World
-- [ ] 02 - Values
+- [x] 02 - Values
 - [ ] 03 - Variables
 - [ ] 04 - Constants
 - [ ] 05 - For
