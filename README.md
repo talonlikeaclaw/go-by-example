@@ -14,7 +14,7 @@ This repository tracks my learning through [Go by Example](https://gobyexample.c
 - [x] 08 - Arrays
 - [x] 09 - Slices
 - [x] 10 - Maps
-- [ ] 11 - Functions
+- [x] 11 - Functions
 - [ ] 12 - Multiple Return Values
 - [ ] 13 - Variadic Functions
 - [ ] 14 - Closures
