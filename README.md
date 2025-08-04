@@ -12,7 +12,7 @@ This repository tracks my learning through [Go by Example](https://gobyexample.c
 - [x] 06 - If/Else
 - [x] 07 - Switch
 - [x] 08 - Arrays
-- [ ] 09 - Slices
+- [x] 09 - Slices
 - [ ] 10 - Maps
 - [ ] 11 - Range
 - [ ] 12 - Functions
