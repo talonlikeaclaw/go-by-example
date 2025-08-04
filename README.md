@@ -13,7 +13,7 @@ This repository tracks my learning through [Go by Example](https://gobyexample.c
 - [x] 07 - Switch
 - [x] 08 - Arrays
 - [x] 09 - Slices
-- [ ] 10 - Maps
+- [x] 10 - Maps
 - [ ] 11 - Range
 - [ ] 12 - Functions
 - [ ] 13 - Multiple Return Values
