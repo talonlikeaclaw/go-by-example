@@ -14,62 +14,80 @@ This repository tracks my learning through [Go by Example](https://gobyexample.c
 - [x] 08 - Arrays
 - [x] 09 - Slices
 - [x] 10 - Maps
-- [ ] 11 - Range
-- [ ] 12 - Functions
-- [ ] 13 - Multiple Return Values
-- [ ] 14 - Variadic Functions
-- [ ] 15 - Closures
-- [ ] 16 - Recursion
+- [ ] 11 - Functions
+- [ ] 12 - Multiple Return Values
+- [ ] 13 - Variadic Functions
+- [ ] 14 - Closures
+- [ ] 15 - Recursion
+- [ ] 16 - Range over Built-in Types
 - [ ] 17 - Pointers
-- [ ] 18 - Structs
-- [ ] 19 - Methods
-- [ ] 20 - Interfaces
-- [ ] 21 - Embedding
-- [ ] 22 - Generics
-- [ ] 23 - Errors
-- [ ] 24 - Goroutines
-- [ ] 25 - Channels
-- [ ] 26 - Channel Buffering
-- [ ] 27 - Channel Synchronization
-- [ ] 28 - Channel Directions
-- [ ] 29 - Select
-- [ ] 30 - Timeouts
-- [ ] 31 - Non-blocking Channel Ops
-- [ ] 32 - Closing Channels
-- [ ] 33 - Range over Channels
-- [ ] 34 - Timers
-- [ ] 35 - Tickers
-- [ ] 36 - Worker Pools
-- [ ] 37 - WaitGroups
-- [ ] 38 - Rate Limiting
-- [ ] 39 - Atomic Counters
-- [ ] 40 - Mutexes
-- [ ] 41 - Stateful Goroutines
-- [ ] 42 - Sorting
-- [ ] 43 - Sorting by Functions
-- [ ] 44 - Panic
-- [ ] 45 - Defer
-- [ ] 46 - Recover
-- [ ] 47 - Strings & Runes
-- [ ] 48 - String Formatting
-- [ ] 49 - Regular Expressions
-- [ ] 50 - JSON
-- [ ] 51 - Time
-- [ ] 52 - Epoch
-- [ ] 53 - Number Parsing
-- [ ] 54 - URL Parsing
-- [ ] 55 - SHA256 Hashes
-- [ ] 56 - Base64 Encoding
-- [ ] 57 - Reading Files
-- [ ] 58 - Writing Files
-- [ ] 59 - Line Filters
-- [ ] 60 - Command-Line Args
-- [ ] 61 - Command-Line Flags
-- [ ] 62 - Environment Variables
-- [ ] 63 - Spawning Processes
-- [ ] 64 - Exec'ing Processes
-- [ ] 65 - Signals
-- [ ] 66 - Exit
+- [ ] 18 - Strings and Runes
+- [ ] 19 - Structs
+- [ ] 20 - Methods
+- [ ] 21 - Interfaces
+- [ ] 22 - Enums
+- [ ] 23 - Struct Embedding
+- [ ] 24 - Generics
+- [ ] 25 - Range over Iterators
+- [ ] 26 - Errors
+- [ ] 27 - Custom Errors
+- [ ] 28 - Goroutines
+- [ ] 29 - Channels
+- [ ] 30 - Channel Buffering
+- [ ] 31 - Channel Synchronization
+- [ ] 32 - Channel Directions
+- [ ] 33 - Select
+- [ ] 34 - Timeouts
+- [ ] 35 - Non-Blocking Channel Operations
+- [ ] 36 - Closing Channels
+- [ ] 37 - Range over Channels
+- [ ] 38 - Timers
+- [ ] 39 - Tickers
+- [ ] 40 - Worker Pools
+- [ ] 41 - WaitGroups
+- [ ] 42 - Rate Limiting
+- [ ] 43 - Atomic Counters
+- [ ] 44 - Mutexes
+- [ ] 45 - Stateful Goroutines
+- [ ] 46 - Sorting
+- [ ] 47 - Sorting by Functions
+- [ ] 48 - Panic
+- [ ] 49 - Defer
+- [ ] 50 - Recover
+- [ ] 51 - String Functions
+- [ ] 52 - String Formatting
+- [ ] 53 - Text Templates
+- [ ] 54 - Regular Expressions
+- [ ] 55 - JSON
+- [ ] 56 - XML
+- [ ] 57 - Time
+- [ ] 58 - Epoch
+- [ ] 59 - Time Formatting / Parsing
+- [ ] 60 - Random Numbers
+- [ ] 61 - Number Parsing
+- [ ] 62 - URL Parsing
+- [ ] 63 - SHA256 Hashes
+- [ ] 64 - Base64 Encoding
+- [ ] 65 - Reading Files
+- [ ] 66 - Writing Files
+- [ ] 67 - Line Filters
+- [ ] 68 - File Paths
+- [ ] 69 - Directories
+- [ ] 70 - Temporary Files and Directories
+- [ ] 71 - Embed Directive
+- [ ] 72 - Testing and Benchmarking
+- [ ] 73 - Command-Line Arguments
+- [ ] 74 - Command-Line Flags
+- [ ] 75 - Command-Line Subcommands
+- [ ] 76 - Environment Variables
+- [ ] 77 - Logging
+- [ ] 78 - HTTP Client
+- [ ] 79 - HTTP Server
+- [ ] 80 - Context
+- [ ] 81 - Spawning Processes
+- [ ] 82 - Exec'ing Processes
+- [ ] 83 - Signals
+- [ ] 84 - Exit
 
 ---
 
